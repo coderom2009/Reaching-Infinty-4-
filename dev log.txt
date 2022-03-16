@@ -1,0 +1,8 @@
+//play secton code indentation left
+
+1.coins adding  | 0.5 of a day  |  done
+2.sprites costume change   | 0.5 of a day  |  done
+3.infinity level customization  |  0.25 day  | done
+4.release banner designing (release 0.00.1)  1hr  | done
+5.Code indentation  | 0.5 of a day  | done
+6.Losing UI and makeuping 
